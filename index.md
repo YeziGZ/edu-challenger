@@ -1,11 +1,42 @@
 # 「全栈教育挑战生」计划
 
-- [起源](##1)
-- [挑战生申请流程](##1)
+**目录**
+
+- - [起源](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-%E8%B5%B7%E6%BA%90)
+
+- - [挑战生申请流程](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-%E6%8C%91%E6%88%98%E7%94%9F%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B)
 
 
+- - - [Step1：提交申请](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-step1%E6%8F%90%E4%BA%A4%E7%94%B3%E8%AF%B7)
 
-<h2 id="1">起源</h2>
+
+- - - [Step2：挑战项目](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-step2%E6%8C%91%E6%88%98%E9%A1%B9%E7%9B%AE)
+
+
+- - - [Step3：进行面试](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-step3%E8%BF%9B%E8%A1%8C%E9%9D%A2%E8%AF%95)
+
+
+- - [我们更关注他们身上什么特质呢？](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-%E6%88%91%E4%BB%AC%E6%9B%B4%E5%85%B3%E6%B3%A8%E4%BB%96%E4%BB%AC%E8%BA%AB%E4%B8%8A%E4%BB%80%E4%B9%88%E7%89%B9%E8%B4%A8%E5%91%A2)
+
+
+- - - [1. 态度](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-1-%E6%80%81%E5%BA%A6)
+
+
+- - - [2. 学习能力](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-2-%E5%AD%A6%E4%B9%A0%E8%83%BD%E5%8A%9B)
+
+
+- - - [3. 执行力](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-3-%E6%89%A7%E8%A1%8C%E5%8A%9B)
+
+
+- - - [4. 灵活性](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-4-%E7%81%B5%E6%B4%BB%E6%80%A7)
+
+
+- - [对于「全栈教育挑战生」的要求](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-%E5%AF%B9%E4%BA%8E%E5%85%A8%E6%A0%88%E6%95%99%E8%82%B2%E6%8C%91%E6%88%98%E7%94%9F%E7%9A%84%E8%A6%81%E6%B1%82)
+
+
+- - [每个人生来带着自己的使命](https://github.com/YeziGZ/edu-challenger/blob/master/index.md#user-content-%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%9D%A5%E5%B8%A6%E7%9D%80%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BD%BF%E5%91%BD)
+
+## 起源
 
 「半撇私塾全栈教育挑战生」是「半撇私塾」团队在进行的一个教育创新项目。项目的起源是因为团队发展，原计划以”实习生“的名义招募，但是思前想后，觉得”实习生“有点不妥，因为在半撇私塾的工作，不会像一般实习生那么轻松。
 
@@ -15,7 +46,7 @@
 
 最后，我和半撇讨论确定为「全栈教育挑战生」，希望用**「项目制+双导师制」**去帮助每个大学生成长，也是促进团队的成长。
 
-<h2 id="1">挑战生申请流程</h2>
+## 挑战生申请流程
 
 第一期挑战生招募发布后，15 天的时间内，我收到了不下 80 份简历，远远超出预想。
 
